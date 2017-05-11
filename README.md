@@ -4,6 +4,6 @@ A marketing client would like to run advertising for the calendar year of 2018 (
 
 You can find the weather data in the data folder of this repository:
 
-Using an open-source Big Data technology (Spark, Hadoop, Pig etc.), take the average temperature for each hour of a year, using the data from years 2007 to 2014.
+Using an open-source Big Data technology (Spark, Hadoop, Pig etc.), take the average temperature and humidity for each hour of a year, using the data from years 2007 to 2014.
 
 Using this data, propose the maximum that could be spent on advertising if the advertising space cost £5CPM (£5 per 1000 ads delivered)
